@@ -5,3 +5,8 @@ https://towardsdatascience.com/over-100-data-scientist-interview-questions-and-a
 
 ###random forest 
 https://mljar.com/blog/feature-importance-in-random-forest/
+
+
+###gini impurity
+
+Gini Impurity is the probability of incorrectly classifying a randomly chosen element in the dataset if it were randomly labeled according to the class distribution in the dataset. It's calculated as. G = ∑ i = 1 C p ( i ) ∗ ( 1 − p ( i ) ) G = \sum_{i=1}^C p(i) * (1 - p(i)) G=i=1∑Cp(i)∗(1−p(i))
