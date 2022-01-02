@@ -14,3 +14,7 @@ Gini Impurity is the probability of incorrectly classifying a randomly chosen el
 
 ###one-vs-rest method
 https://machinelearningmastery.com/one-vs-rest-and-one-vs-one-for-multi-class-classification/
+
+
+###PCA
+Principal component analysis (PCA) is a technique for reducing the dimensionality of such datasets, increasing interpretability but at the same time minimizing information loss. It does so by creating new uncorrelated variables that successively maximize variance.
