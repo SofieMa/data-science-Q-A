@@ -18,3 +18,9 @@ https://machinelearningmastery.com/one-vs-rest-and-one-vs-one-for-multi-class-cl
 
 ###PCA
 Principal component analysis (PCA) is a technique for reducing the dimensionality of such datasets, increasing interpretability but at the same time minimizing information loss. It does so by creating new uncorrelated variables that successively maximize variance.
+
+
+###kernal easy explanation
+The arguably simplest example is the linear kernel, also called dot-product. Given two vectors, the similarity is the length of the projection of one vector on another.
+one dimentional vector x1y1+x2y2 transforms to two dimentional vectors (x1,x2) and (y1,y2)
+![image](https://user-images.githubusercontent.com/55392634/147890840-7cc5b335-cd28-43cd-b198-99e40fff8bd6.png)
